@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="common emails">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../common emails" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../common emails" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../common emails" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../common emails" recursive="false" type="SOURCES" />
+  </library>
+</component>
