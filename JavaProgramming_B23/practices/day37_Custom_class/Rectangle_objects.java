@@ -5,6 +5,8 @@ public class Rectangle_objects {
         Rectangle object1=new Rectangle();
         object1.setInfo(4,5);
         object1.getInfo();
+        System.out.println("good");
+
 
     }
 }
