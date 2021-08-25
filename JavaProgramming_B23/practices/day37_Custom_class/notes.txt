@@ -1,0 +1,46 @@
+Custom class
+
+A class is a blueprint set of instruction to build a specific type of object.
+
+class has attributes and methods:
+    - attributes are properties or fields
+    - methods are behaviours or actions
+
+    Example:
+    Person class
+        -Attributes - name
+                    - age
+                    - city
+                    - gender
+        - methods   - eat()
+                    - sleep()
+                    - walk()
+                    - run()
+An object is an instance of a class.
+instance is one occurrence of an object.
+    Example: Person1
+             -Attributes - name - Collins
+                         - age - 20
+                         - city - Nairobi
+                         - gender - Male
+             - methods   - eat()
+                         - sleep()
+                         - walk()
+                         - run()
+
+
+creating a class:
+    - Access modifier
+    - Keyword
+    - class name
+
+Syntax
+modifier class myClass { //class header
+
+//field, constructor
+
+//method declarations
+
+};
+
+
